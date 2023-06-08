@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 백엔드 5기 삼바님들, 감사합니다! 
+title: 백엔드 5기 삼바님들, 감사합니다!
 date: 2017-04-06 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: IMG_1591.JPG # Add image post (optional)

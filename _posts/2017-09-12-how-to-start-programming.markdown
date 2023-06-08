@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Start Programming
+title: 그건 테킷 백엔드스쿨5기 멋쟁이 왕 사자분들의 
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
